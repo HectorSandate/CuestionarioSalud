@@ -152,7 +152,7 @@ npm run dev
 
 ---
 
->[!IMPORTANT]  
+> [!CAUTION]
 > ## 🧑‍💻 Autor
 > **Hecho Solo Por Diaz Sandate Hector Jose**  
 [GitHub](https://github.com/HectorSandate)  
