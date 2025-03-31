@@ -95,7 +95,7 @@ Puedes iniciar sesión con el siguiente usuario:
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu_usuario/nom035-app.git
+git clone https://github.com/HectorSandate/CuestionarioSalud.git
 cd nom035-app
 
 # Instala dependencias
