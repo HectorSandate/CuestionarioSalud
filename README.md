@@ -152,8 +152,9 @@ npm run dev
 
 ---
 
+[!IMPORTANT]  
 ## 🧑‍💻 Autor
 
-**Tu Nombre**  
+**Hecho Solo Por Diaz Sandate Hector Jose**  
 [GitHub](https://github.com/HectorSandate)  
 Desarrollador Web Full Stack
